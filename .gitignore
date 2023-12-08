@@ -17,8 +17,6 @@ Thumbs.db
 # Temporary or Backup files
 *#
 *~
-# Hidden files
-.#*
 
 ### STS ###
 .apt_generated
